@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I build modern, responsive web applications with a strong focus on frontend development. My primary stack includes React, Next.js, JavaScript, TypeScript, and Tailwind CSS, where I work on SPAs, dynamic routing, and performance-focused UI.<br><br>I have hands-on experience designing clean interfaces, ensuring cross-device compatibility, and integrating frontend applications with SQL and Postgres-based backends. I’m currently strengthening my full stack skills through practical training and real-world projects.<br><br>My learning path also includes applying AI and ML concepts to web applications, with an interest in building intelligent, scalable systems.<br><br>I’m open to collaborating on frontend or full stack projects that prioritize clarity, usability, and solid engineering practices.
 
 
@@ -27,5 +27,3 @@ I build modern, responsive web applications with a strong focus on frontend deve
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yashdubey) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
